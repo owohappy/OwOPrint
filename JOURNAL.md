@@ -8,6 +8,6 @@ Total hours so far: 0
 
 ### Day 0: February 26, 2025 (3 hours)
 
-Wrote my ideas down in a little obsidian document
-Designed a concept desgine in blender to have a refernce
-Made first few 3D printable parts in fusion
+- Wrote my ideas down in a little obsidian document
+- Designed a concept desgine in blender to have a refernce
+- Made first few 3D printable parts in fusion
