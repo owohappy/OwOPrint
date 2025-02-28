@@ -1,6 +1,6 @@
 Made by: @owohappy // happy
 Repository link: https://github.com/owohappy/OwOPrint
-Total hours so far: 4
+Total hours so far: 7
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -12,7 +12,10 @@ Total hours so far: 4
 - Designed a concept desgine in blender to have a refernce
 - Made first few 3D printable parts in fusion
 
-### Day 1: February 27, 2025 (1 hour)
+### Day 1: February 27, 2025 (4 hour)
 
 - desinged the holders for the middle 2040 holder to be able to move it 
 - started to write my BOM
+- started to do the first test print in ASA
+- desinged the extruder plate for my printer
+- got some spare parts out of it from my dead ender 3
